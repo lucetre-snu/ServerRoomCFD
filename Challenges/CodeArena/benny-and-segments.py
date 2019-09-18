@@ -1,6 +1,6 @@
 from sys import stdin
 rf = stdin
-rf = open('in.txt', mode='r')
+# rf = open('in.txt', mode='r')
 
 if __name__ == '__main__':
     T = int(rf.readline())
