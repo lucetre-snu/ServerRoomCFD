@@ -71,7 +71,7 @@ daily_routines
 aches_&_pains	
 illnesses	
 airport	
-transportation	
+transportation
 mobility	
 traveling	
 car	
@@ -120,7 +120,6 @@ headwear
 jewelry	
 makeup	
 beauty_salon	
-more_clothes	
 luxury	
 fun	
 music	

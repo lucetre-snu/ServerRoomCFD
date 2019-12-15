@@ -1935,7 +1935,7 @@ sálfræðingur	psychologist	심리학자
 leigubílstjóri	taxi driver	택시 운전사
 dýralæknir	vet	수의사
 rithöfundur	writer	작가
-workspace           16
+workspace			16
 bréfaklemma	paperclip	클립
 skrifborð	desk	책상
 skjalaskápur	file cabinet	파일 캐비닛
