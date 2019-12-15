@@ -1,18 +1,19 @@
-here	hérna
-there	þarna
-What do you do?	Hvað gerir þú?
-Are you from here?	Ert þú héðan?
-a little	smá
-How old are you?	Hvað ert þú gamall?
-I have been here 5 days.	Ég hef verið hér í fimm daga.
-Who?	hver
-What?	hvað
-When?	hvenær
-Where?	hvar er matvöruverslunin?
-Why?	hvers vegna
-How?	hvernig
-over there	þarna
-wrong	rangt
-correct	rétt
-Repeat!	endurtaka
-Speak slowly!	tala hægt
+meet_the_locals
+hérna	here	여기
+þarna	there	거기
+Hvað gerir þú?	What do you do?	무엇을 하시나요?
+Ert þú héðan?	Are you from here?	여기 출신인가요?
+smá	a little	조금요
+Hvað ert þú gamall?	How old are you?	몇살이세요?
+Ég hef verið hér í fimm daga.	I have been here 5 days.	5일 동안 있었어요
+hver	Who?	누구
+hvað	What?	무엇
+hvenær	When?	언제
+hvar er matvöruverslunin?	Where?	어디서
+hvers vegna	Why?	왜
+hvernig	How?	어떻게
+þarna	over there	저기
+rangt	wrong	잘못된
+rétt	correct	맞은
+endurtaka	Repeat!	반복
+tala hægt	Speak slowly!	천천히 말해요

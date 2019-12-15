@@ -1,17 +1,18 @@
-eyelid	augnlok
-lower back	mjóbak
-waistline	mittismál
-fingernail	fingurnögl
-knuckle	hnúi
-shoulder	öxl
-breast	brjóst
-wrist	úlnliður
-cheeks	kinnar
-adam's apple	adamsepli
-toenail	tánögl
-armpit	handarkriki
-abs	kviðvöðvar
-jaw	kjálki
-belly button	nafli
-I turn	ég sný
-I cover	ég hyl
+more_body_parts
+augnlok	eyelid	눈꺼풀
+mjóbak	lower back	아랫 등
+mittismál	waistline	허리둘레
+fingurnögl	fingernail	손톱
+hnúi	knuckle	손가락 관절
+öxl	shoulder	어깨
+brjóst	breast	유방
+úlnliður	wrist	손목
+kinnar	cheeks	뺨
+adamsepli	adam's apple	목젖
+tánögl	toenail	발톱
+handarkriki	armpit	겨드랑이
+kviðvöðvar	abs	복근
+kjálki	jaw	턱
+nafli	belly button	배꼽
+ég sný	I turn	저는 돌아요
+ég hyl	I cover	저는 가려요

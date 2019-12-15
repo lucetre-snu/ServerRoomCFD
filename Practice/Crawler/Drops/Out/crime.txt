@@ -1,17 +1,18 @@
-arsonist	brennuvargur
-bike theft	reiðhjólaþjófnaður
-bribe	mútur
-CCTV	eftirlitsmyndavélar
-credit card fraud	kreditkortasvik
-crime scene	glæpavettvangur
-detective	rannsóknarlögreglumaður
-hacker	tölvuhakkari
-I break in	ég brýst inn
-I steal	ég stel
-investigation	rannsókn
-murder	morð
-pepper spray	piparúði
-robber	ræningi
-siren	sírena
-theft	þjófnaður
-thief	þjófur
+crime
+brennuvargur	arsonist	방화범
+reiðhjólaþjófnaður	bike theft	자전거 절도
+mútur	bribe	뇌물
+eftirlitsmyndavélar	CCTV	씨씨티비
+kreditkortasvik	credit card fraud	신용카드 범죄
+glæpavettvangur	crime scene	범죄 현장
+rannsóknarlögreglumaður	detective	수사관
+tölvuhakkari	hacker	해커
+ég brýst inn	I break in	저는 침입해요
+ég stel	I steal	저는 훔쳐요
+rannsókn	investigation	수사
+morð	murder	살인
+piparúði	pepper spray	페퍼 스프레이
+ræningi	robber	강도
+sírena	siren	사이렌
+þjófnaður	theft	절도
+þjófur	thief	도둑

@@ -1,17 +1,18 @@
-bracelet	armband
-crown	kóróna
-crystal	kristall
-cufflinks	skyrtuhnappar
-diamond	demantur
-gemstone	gimsteinn
-hair pin	hárspenna
-I catch	ég gríp
-I fall	ég dett
-I search	ég leita að
-medal	medalía
-pearl	perla
-piercing	götun
-pocket watch	vasaúr
-tiara	kóróna
-sandal	sandali
-crystal ball	kristalkúla
+jewelry
+armband	bracelet	팔찌
+kóróna	crown	왕관
+kristall	crystal	크리스탈
+skyrtuhnappar	cufflinks	커프링크스
+demantur	diamond	다이아몬드
+gimsteinn	gemstone	원석
+hárspenna	hair pin	머리핀
+ég gríp	I catch	저는 잡아요
+ég dett	I fall	저는 떨어져요
+ég leita að	I search	저는 찾아요
+medalía	medal	메달
+perla	pearl	진주
+götun	piercing	피어싱
+vasaúr	pocket watch	회중시계
+kóróna	tiara	티아라
+sandali	sandal	샌들
+kristalkúla	crystal ball	수정구슬
