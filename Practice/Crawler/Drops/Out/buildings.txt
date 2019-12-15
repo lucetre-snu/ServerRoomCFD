@@ -1,0 +1,18 @@
+church	kirkja
+gas station	bensínstöð
+library	bókasafn
+factory	verksmiðja
+museum	safn
+skyscraper	skýjakljúfur
+theater	leikhús
+cafe	kaffihús
+post office	pósthús
+hospital	sjúkrahús
+pharmacy	apótek
+police station	lögreglustöð
+theme park	skemmtigarður
+school	skóli
+butcher shop	kjötbúð
+I leave	ég fer
+I pull	ég toga
+I push	ég ýti

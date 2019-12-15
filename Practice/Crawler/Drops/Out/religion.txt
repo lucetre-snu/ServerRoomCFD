@@ -1,0 +1,17 @@
+angel	engill
+buddhism	búddatrú
+christianity	kristni
+devil	djöfull
+god	guð
+heaven	himnaríki
+hinduism	hindúatrú
+I pray	ég bið
+islam	íslam
+judaism	gyðingdómur
+meditation	hugleiðsla
+monk	munkur
+mosque	moska
+nun	nunna
+prophet	spámaður
+saint	dýrlingur
+taoism	taóismi

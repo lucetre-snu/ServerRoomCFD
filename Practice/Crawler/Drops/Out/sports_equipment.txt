@@ -1,0 +1,17 @@
+arrow	ör
+ball	bolti
+bow	bogi
+goal	mark
+goalkeeper	markmaður
+helmet	hjálmur
+ice skate	skautar
+net	net
+player	leikmaður
+race	keppni
+racket	tennisspaði
+referee	dómari
+skateboard	hjólabretti
+skis	skíði
+snowboard	snjóbretti
+stadium	íþróttavöllur
+swimsuit	sundföt

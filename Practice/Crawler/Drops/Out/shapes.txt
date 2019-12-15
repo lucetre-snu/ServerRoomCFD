@@ -1,0 +1,16 @@
+arch	bogi
+circle	hringur
+cone	keila
+cube	teningur
+cylinder	sívalningur
+octagon	átthyrningur
+oval	sporaskja
+pentagon	fimmhyrningur
+pyramid	pýramídi
+rectangle	rétthyrningur
+hexagon	sexhyrningur
+ring	hringur
+sphere	kúla
+square	ferningur
+triangle	þríhyrningur
+wedge	fleygur

@@ -1,0 +1,16 @@
+belt	belti
+boots	stígvél
+bra	brjóstahaldari
+coat	kápa
+dress	kjóll
+glasses	gleraugu
+gloves	hanskar
+socks	sokkar
+underwear	nærbuxur
+shorts	stuttbuxur
+scarf	trefill
+shirt	skyrta
+shoe	skór
+t-shirt	stuttermabolur
+trousers	buxur
+I get dressed	ég klæði mig

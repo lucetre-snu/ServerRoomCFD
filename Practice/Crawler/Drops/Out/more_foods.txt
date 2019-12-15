@@ -1,0 +1,17 @@
+almond	mandla
+bacon	beikon
+butter	smjör
+peanut	jarðhneta
+coconut	kókoshneta
+ham	skinka
+hamburger	hamborgari
+hazelnut	heslihneta
+hotdog	pylsa
+pasta	pasta
+pistachio	pistasíuhneta
+salmon	lax
+sausage	pylsa
+walnut	valhneta
+yogurt	jógúrt
+I pour	ég helli
+I serve	ég þjóna

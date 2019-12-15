@@ -1,0 +1,17 @@
+yes	já
+no	nei
+hi	hæ
+thank you	takk fyrir
+please	vinsamlegast
+toilet	klósett
+restaurant	veitingahús
+Sorry!	fyrirgefðu
+Do you speak English?	Talar þú ensku?
+I need water.	Get ég fengið vatn
+closed	lokað
+open	opið
+Help!	Hjálp!
+The bill, please!	reikninginn, takk
+Excuse me!	afsakaðu
+How much?	Hversu mikið?
+Menu, please!	matseðil, takk

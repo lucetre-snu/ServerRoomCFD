@@ -1,0 +1,17 @@
+trash can	ruslatunna
+cutting board	skurðarbretti
+faucet	vatnskrani
+frying pan	steikarpanna
+glass	glas
+grill	grill
+jug	kanna
+kettle	ketill
+lid	lok
+peeler	flysjari
+plate	diskur
+pot	pottur
+tin	niðursuðudós
+sink	vaskur
+stove	eldavél
+I chop	ég sker
+I mix	ég blanda saman

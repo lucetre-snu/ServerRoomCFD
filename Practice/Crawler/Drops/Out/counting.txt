@@ -1,0 +1,17 @@
+eleven	ellefu
+twelve	tólf
+eighty	áttatíu
+fifty	fimmtíu
+ninety	níutíu
+seventy	sjötíu
+sixty	sextíu
+thirteen	þrettán
+fourteen	fjórtán
+fifteen	fimmtán
+sixteen	sextán
+seventeen	sautján
+eighteen	átján
+nineteen	nítján
+twenty-one	tuttugu og einn
+twenty five	tuttugu og fimm
+seventy five	sjötíu og fimm

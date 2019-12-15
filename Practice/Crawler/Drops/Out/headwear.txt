@@ -1,0 +1,17 @@
+bandana	höfuðklútur
+beanie	húfa
+beret	golfhúfa
+cowboy hat	kúrekahattur
+earmuffs	eyrnahlífar
+flat hat	sixpensari
+fullcap	derhúfa
+hair band	hárband
+hard hat	öryggishjálmur
+headband	ennisband
+hood	hetta
+I put	ég set
+swimming cap	sundhetta
+swimming goggles	sundgleraugu
+tophat	pípuhattur
+turban	túrban
+visor	skyggni

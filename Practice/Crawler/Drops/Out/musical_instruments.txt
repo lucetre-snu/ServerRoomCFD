@@ -1,0 +1,18 @@
+cello	selló
+organ	orgel
+harp	harpa
+flute	flauta
+oboe	óbó
+trombone	básúna
+clarinet	klarínett
+tuba	túba
+harmonica	munnharpa
+bass	bassi
+drum sticks	trommukjuðar
+acoustic guitar	kassagítar
+electric guitar	rafmagnsgítar
+saxophone	saxófónn
+synthesizer	hljóðgervill
+drums	trommur
+I pluck	ég plokka
+I compose	ég sem

@@ -1,0 +1,18 @@
+shopping cart	innkaupakarfa
+barcode	strikamerki
+cash register	afgreiðslukassi
+farmer's market	bændamarkaður
+frozen food	frosin matvæli
+conveyor belt	færiband
+barcode scanner	strikamerkjalesari
+shopping bag	innkaupapoki
+shopping list	innkaupalisti
+expiration date	síðasti söludagur
+loyalty card	vildarkort
+self-service	sjálfsafgreiðsla
+flea market	flóamarkaður
+online shopping	netverslun
+display window	útstillingargluggi
+price tag	verðmiði
+I stock up	ég birgi mig upp
+I supply	ég útvega

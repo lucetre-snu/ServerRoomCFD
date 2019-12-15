@@ -1,0 +1,17 @@
+everybody	allir
+he	hann
+her	hennar
+his	hans
+it	það
+its	þess
+my	minn
+nobody	enginn
+she	hún
+their	þeirra
+they	þau
+we	við
+you	þú
+your	þitt
+I call	ég hringi
+I introduce	ég kynni
+I speak	ég tala

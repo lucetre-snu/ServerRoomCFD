@@ -1,0 +1,16 @@
+one	einn
+two	tveir
+three	þrír
+four	fjórir
+five	fimm
+six	sex
+seven	sjö
+eight	átta
+nine	níu
+ten	tíu
+I'm allergic to peanuts.	Ég er með ofnæmi fyrir hnetum
+I am happy.	ég er glaður
+Do you understand?	Skilur þú?
+Too expensive!	of dýrt
+Anything else?	Eitthvað fleira?
+No, that's all.	nei, þetta var allt

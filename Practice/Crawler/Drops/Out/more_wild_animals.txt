@@ -1,0 +1,17 @@
+buffalo	bufall
+chameleon	kamelljón
+cobra	kóbraslanga
+crocodile	krókódíll
+dinosaur	risaeðla
+gecko	gekkói
+giraffe	gíraffi
+gorilla	górilla
+I fell over	ég datt
+I smell	ég þefa
+iguana	græneðla
+kangaroo	kengúra
+lizard	eðla
+panther	pardusdýr
+rhino	nashyrningur
+tiger	tígrisdýr
+zebra	sebrahestur

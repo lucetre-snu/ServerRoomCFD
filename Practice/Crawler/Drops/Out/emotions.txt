@@ -1,0 +1,17 @@
+angry	reiður
+bored	leiðist
+calm	rólegur
+crazy	óður
+disappointed	vonsvikin
+disgusted	mér býður við þessu
+excited	spenntur
+frightened	hræddur
+grumpy	geðvondur
+happy	hamingjusamur
+in love	ástfangin
+nervous	kvíðinn
+relaxed	afslappaður
+rested	úthvíldur
+sad	sorgmæddur
+surprised	undrandi
+tired	þreyttur

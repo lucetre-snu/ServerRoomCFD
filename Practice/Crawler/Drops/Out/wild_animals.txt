@@ -1,0 +1,17 @@
+ant	maur
+bat	leðurblaka
+bear	björn
+bee	býfluga
+butterfly	fiðrildi
+camel	kameldýr
+cockroach	kakkalakki
+elephant	fíll
+frog	froskur
+monkey	api
+rat	rotta
+shark	hákarl
+snail	snigill
+snake	slanga
+spider	könguló
+turtle	skjaldbaka
+wolf	úlfur

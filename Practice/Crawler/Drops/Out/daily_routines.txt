@@ -1,0 +1,15 @@
+I comb my hair	ég greiði hár mitt
+I set an alarm	ég stilli vekjarann
+I wake up	ég vakna
+I go to bed	ég fer í rúmið
+I wash my face	ég þvæ andlit mitt
+I go to work	ég fer í vinnu
+I have lunch	ég borða hádegismat
+I return home	ég fer heim
+I finish	ég klára
+I take out the trash	ég fer út með ruslið
+I dry my hair	ég þurrka hár mitt
+I surf the net	ég vafra á netinu
+I commute	ég ferðast til og frá vinnu
+I make coffee	ég bý til kaffi
+I shave	ég raka mig

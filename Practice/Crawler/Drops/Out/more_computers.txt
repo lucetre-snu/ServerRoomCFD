@@ -1,0 +1,18 @@
+power button	kveikihnappur
+memory card reader	minniskortalesari
+power cable	rafmagnssnúra
+spreadsheet	töflureiknir
+adaptor	millistykki
+webcam	vefmyndavél
+USB cable	usb kapall
+external drive	utanáliggjandi drif
+trackpad	snertiborð
+speaker	hátalari
+USB hub	usb fjöltengi
+power bank	ferðahleðsla
+laptop sleeve	fartölvutaska
+screen protector	skjávörn
+video conference	myndfundur
+it crashes	hún frýs
+I type	ég rita
+I review	ég fer yfir

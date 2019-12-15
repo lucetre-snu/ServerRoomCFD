@@ -1,0 +1,17 @@
+arrest	handtaka
+baton	lögreglukylfa
+chase	eftirför
+fingerprint	fingrafar
+gangsters	glæpamenn
+handcuffs	handjárn
+money laundering	peningaþvætti
+judge	dómari
+jury	kviðdómur
+law	lög
+prison break	að brjótast úr fangelsi
+prison cell	fangaklefi
+prison guard	fangelsisvörður
+prisoner	fangi
+suspects	hinir grunuðu
+terrorist	hryðjuverkamaður
+wanted	eftirlýstur

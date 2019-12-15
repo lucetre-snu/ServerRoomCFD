@@ -1,0 +1,18 @@
+ski poles	skíðastafir
+ski boots	skíðaskór
+ski goggles	skíðagleraugu
+chairlift	skíðalyfta
+ski lodge	skíðaskáli
+ski pass	skíðapassi
+fake snow	gervisnjór
+puck	pökkur
+hockey stick	hokkíkylfa
+ice skates	ísskautar
+teeth guard	tannhlíf
+ice rink	skautasvell
+mask cage	íshokkígríma
+catcher glove	gríparahanski
+scoreboard	stigatafla
+spectators	áhorfendur
+I glide	ég renn
+I score	ég skora

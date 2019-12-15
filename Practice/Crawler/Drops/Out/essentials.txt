@@ -1,0 +1,17 @@
+yes	já
+no	nei
+ok	allt í lagi
+hi	hæ
+thank you	takk fyrir
+bye	bless
+please	vinsamlegast
+I	ég
+woman	kona
+man	maður
+and	og
+or	eða
+this	þetta
+girl	stelpa
+boy	strákur
+I like	mér líkar
+I meet	ég hitti

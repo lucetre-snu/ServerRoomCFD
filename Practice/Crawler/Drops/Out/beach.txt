@@ -1,0 +1,17 @@
+beach ball	strandbolti
+beach towel	strandhandklæði
+beach volleyball	strandblak
+cooler	kælir
+frisbee	frisbídiskur
+it slides	það rennur
+life jacket	björgunarvesti
+lifeguard	lífvörður
+parasol	sólhlíf
+sandbox	sandkassi
+slide	rennibraut
+snorkel	snorkla
+sun chair	sólbekkur
+sunbathing	sólbað
+sunscreen	sólarvörn
+surfboard	brimbretti
+swing	róla

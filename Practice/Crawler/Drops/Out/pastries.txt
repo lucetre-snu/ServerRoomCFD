@@ -1,0 +1,15 @@
+baguette	snittubrauð
+baking tray	ofnskúffa
+bun	bolla
+candy	sælgæti
+cashew nut	kasjúhneta
+crackers	kex
+croissant	smjördeigshorn
+I bake	ég baka
+peanut butter	hnetusmjör
+pie	baka
+pizza	pítsa
+pretzel	saltkringla
+pumpkin seed	graskersfræ
+rolling pin	kökukefli
+scone	skonsa

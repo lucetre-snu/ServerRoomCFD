@@ -1,0 +1,17 @@
+backpack	bakpoki
+barrel	tunna
+box	kassi
+briefcase	skjalataska
+bucket	fata
+chest	kista
+drawer	skúffa
+flask	flaska
+folder	mappa
+handbag	handtaska
+jar	krukka
+locker	skápur
+plastic bag	plastpoki
+purse	handtaska
+suitcase	ferðataska
+vase	vasi
+fannypack	mittistaska

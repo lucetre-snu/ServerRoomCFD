@@ -1,0 +1,17 @@
+body	líkami
+head	höfuð
+hair	hár
+face	andlit
+ears	eyru
+eyes	augu
+nose	nef
+mouth	munnur
+tooth	tönn
+lips	varir
+hand	hönd
+finger	fingur
+nail	nögl
+foot	fótur
+I fight	ég berst
+I jump	ég hoppa
+I run	ég hleyp

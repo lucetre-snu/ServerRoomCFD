@@ -1,0 +1,16 @@
+bakery	bakarí
+barber	rakari
+beauty salon	snyrtistofa
+bike shop	reiðhjólabúð
+book shop	bókabúð
+confectionery	sælkerabúð
+department store	stórverslun
+fishmonger	fiskbúð
+florist	blómabúð
+greengrocery	matarmarkaður
+hairdresser	hárgreiðslustofa
+jewelry	skartgripabúð
+key smith	lyklasmiður
+optician	gleraugnaverslun
+tailor	klæðskeri
+tobacco shop	tóbaksverslun

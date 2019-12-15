@@ -1,0 +1,18 @@
+water tower	vatnsturn
+kiosk	söluturn
+tower	turn
+ruins	rústir
+mill	mylla
+convention center	ráðstefnumiðstöð
+brewery	brugghús
+bathhouse	baðhús
+motel	mótel
+pagoda	pagóða
+bus station	umferðarmiðstöð
+campus	háskólalóð
+tepee	indjánatjald
+amphitheater	hringleikahús
+city hall	ráðhús
+winery	víngerð
+I enter	ég kem inn
+I demolish	ég brýt niður

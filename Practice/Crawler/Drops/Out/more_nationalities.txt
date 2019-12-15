@@ -1,0 +1,18 @@
+Irish	írskur
+Welsh	walesbúi
+Scottish	skoskur
+Portuguese	portúgalskur
+Greek	grískur
+Croatian	króatískur
+Swiss	svissneskur
+Ukranian	úkraínskur
+Korean	kóreskur
+Taiwanese	taívanskur
+Filipino	filippseyjabúi
+Thai	taílenskur
+Malaysian	malasískur
+Indonesian	indónesískur
+Belgian	belgískur
+Austrian	austurískur
+I'm from	ég er frá
+I visit	ég heimsæki

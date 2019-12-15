@@ -1,0 +1,17 @@
+Ireland	írland
+Wales	wales
+Scotland	skotland
+Portugal	portúgal
+Greece	grikkland
+Croatia	króatía
+Switzerland	sviss
+Ukraine	úkraína
+South Korea	suður kórea
+Philippines	filippseyjar
+Thailand	taíland
+Malaysia	malasía
+Indonesia	indónesía
+Belgium	belgía
+Austria	austurríki
+I live in	ég bý á
+I go sightseeing	ég fer í skoðunarferð

@@ -1,0 +1,15 @@
+fog	þoka
+rain	rigning
+snow	snjór
+sun	sól
+temperature	hitastig
+weather forecast	veðurspá
+wind	vindur
+umbrella	regnhlíf
+raincoat	regnkápa
+winter	vetur
+summer	sumar
+fall	haust
+spring	vor
+ice	ís
+storm	stormur

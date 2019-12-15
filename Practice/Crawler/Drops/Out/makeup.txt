@@ -1,0 +1,18 @@
+eye shadow	augnskuggi
+eye liner	augnblýantur
+makeup bag	förðunartaska
+fake eyelashes	gerviaugnhár
+chapstick	varasalvi
+blush	kinnalitur
+makeup remover	farðahreinsir
+eyelash curler	augnhárabrettari
+lip gloss	varagloss
+tweezers	flísatöng
+compact mirror	púðurdós
+cotton swab	bómullarpinni
+nail brush	naglabursti
+nail polish remover	naglalakkseyðir
+hairband	hárspöng
+hand lotion	handáburður
+I apply makeup	ég farða mig
+I remove	ég fjarlægi

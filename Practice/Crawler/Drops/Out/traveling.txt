@@ -1,0 +1,17 @@
+backpacker	bakpokaferðalangur
+bullet train	háhraðalest
+cruise	skemmtiferðaskip
+entry gate	inngönguhlið
+hiker	fjallgöngumaður
+hitchhiking	puttaferðalangur
+I pack	ég pakka
+I slip	ég renn til
+rail crossing	vegamót lestarteina
+rail ticket	lestarmiði
+railroad car	lestarvagn
+tracks	lestarteinar
+ticket machine	miðasjálfsali
+tour guide	leiðsögumaður
+tourist	ferðamaður
+travel	ferðalag
+wagon	vagn

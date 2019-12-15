@@ -1,0 +1,18 @@
+umbrella	regnhlíf
+map	landakort
+charger	hleðslutæki
+sunglasses	sólgleraugu
+rail ticket	lestarmiði
+sunscreen	sólarvörn
+adaptor	millistykki
+aspirin	aspirín
+SIM card	SIM kort
+metro pass	kort í neðanjarðarlest
+bus ticket	strætómiði
+Pepto Bismol	Pepto Bismol
+gasoline	bensín
+souvenir	minjagripur
+entrance ticket	aðgöngumiði
+toiletries	snyrtivörur
+memory card	minniskort
+bottled water	flöskuvatn

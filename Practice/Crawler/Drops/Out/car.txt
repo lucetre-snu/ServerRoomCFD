@@ -1,0 +1,17 @@
+car battery	rafgeymir
+car rental	bílaleiga
+car wash	bílaþvottur
+driver's license	ökuskírteini
+engine	bílvél
+forklift	gaffallyftari
+gas pedal	bensíngjöf
+gas tank	bensíntankur
+horn	bílflauta
+I drive	ég keyri
+I repair	ég lagfæri
+motor oil	mótorolía
+piston	bulla
+shifter	kúpling
+tow truck	dráttarbíll
+wheel repair	dekkjaviðgerð
+windshield wipers	rúðuþurrkur

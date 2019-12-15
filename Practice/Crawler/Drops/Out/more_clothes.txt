@@ -1,0 +1,16 @@
+raincoat	regnkápa
+robe	sloppur
+boxer shorts	nærbuxur
+briefs	stuttar nærbuxur
+pyjamas	náttföt
+overalls	samfestingur
+loungewear	hversdagsföt
+blazer	jakki
+poncho	slá
+jumper	peysa
+pullover	peysa
+cardigan	treyja
+sleeve	ermi
+nose ring	nefhringur
+I fold	ég brýt saman
+I hang up	ég hengi upp

@@ -1,0 +1,17 @@
+barn	hlaða
+combine	kornþreskivél
+farm	bóndabýli
+farmer	bóndi
+greenhouse	gróðurhús
+I harvest	ég uppsker
+I plant	ég gróðurset
+orchard	aldingarður
+pasture	beitiland
+pesticides	skordýraeitur
+pick axe	haki
+plow	plógur
+plow field	akur
+scarecrow	fuglahræða
+straw bale	heybaggi
+tractor	dráttarvél
+water tank	vatnstankur

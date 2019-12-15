@@ -1,0 +1,17 @@
+ambulance	sjúkrabíll
+band-aid	plástur
+makeup	farði
+hairbrush	hárbursti
+dizzy	svimi
+cough	hósti
+fever	hiti
+headache	hausverkur
+medicine	lyf
+toilet	klósett
+toothache	tannpína
+toothbrush	tannbursti
+toothpaste	tannkrem
+towel	handklæði
+soap	sápa
+I bathe	ég baða mig
+I take a shower	ég fer í sturtu

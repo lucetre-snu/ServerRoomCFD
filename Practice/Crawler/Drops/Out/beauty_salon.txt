@@ -1,0 +1,17 @@
+curling iron	krullujárn
+nail salon	naglasnyrtistofa
+manicure	handsnyrting
+pedicure	fótsnyrting
+blowdry	hárþurrka
+waxing	háreyðing
+straightening iron	sléttijárn
+hairspray	hársprey
+hair dye	hárlitun
+hair gel	hárgel
+hair roller	hárrúllur
+hair clipper	hárklippur
+stand dryer	hárþurrkustandur
+styling brush	hárbursti
+face mask	andlitsgríma
+I trim	ég snyrti
+I brush	ég bursta

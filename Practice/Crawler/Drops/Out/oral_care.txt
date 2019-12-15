@@ -1,0 +1,17 @@
+anesthetic	svæfingarlyf
+braces	spangir
+cavity	hola í tönn
+denture	gervitennur
+electric toothbrush	rafmagnstannbursti
+floss	tannþráður
+flossing	tannþræðing
+gum	gómur
+mouthwash	munnskol
+root canal treatment	rótfylling
+teeth bridge	tannbrú
+teeth whitening	tannhvíttun
+I fill	ég fylli
+tooth crown	króna
+tooth drilling	tannborun
+tooth extraction	tannúrtaka
+tooth implant	tannfylling

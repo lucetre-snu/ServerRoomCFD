@@ -1,0 +1,17 @@
+binoculars	sjónauki
+camp stove	prímus
+caravan	hjólhýsi
+direction post	vegaskilti
+energy bar	orkustykki
+folding chair	tjaldstóll
+GPS	staðsetningarbúnaður
+headlamp	ennislampi
+insect repellent	skordýraeitur
+kayaking	kajakróður
+lighter	kveikjari
+marshmallow	sykurpúði
+outdoor cooking	að elda úti
+picnic table	tjaldborð
+snowshoes	snjóþrúgur
+trekking boot	gönguskór
+trekking poles	göngustafir

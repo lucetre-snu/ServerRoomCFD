@@ -1,0 +1,17 @@
+eyelid	augnlok
+lower back	mjóbak
+waistline	mittismál
+fingernail	fingurnögl
+knuckle	hnúi
+shoulder	öxl
+breast	brjóst
+wrist	úlnliður
+cheeks	kinnar
+adam's apple	adamsepli
+toenail	tánögl
+armpit	handarkriki
+abs	kviðvöðvar
+jaw	kjálki
+belly button	nafli
+I turn	ég sný
+I cover	ég hyl

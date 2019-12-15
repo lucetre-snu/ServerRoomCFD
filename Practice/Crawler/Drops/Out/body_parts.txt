@@ -1,0 +1,17 @@
+ankle	ökkli
+arm	handleggur
+beard	skegg
+bone	bein
+brain	heili
+elbow	olnbogi
+heart	hjarta
+heel	hæll
+knee	hné
+leg	fótleggur
+moustache	yfirvaraskegg
+muscle	vöðvi
+skeleton	beinagrind
+skin	húð
+spine	hryggur
+stomach	magi
+I bleed	mér blæðir

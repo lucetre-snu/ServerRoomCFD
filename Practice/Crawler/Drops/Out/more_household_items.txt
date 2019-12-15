@@ -1,0 +1,18 @@
+doorbell	dyrabjalla
+candle holder	kertastjaki
+wall decor	veggskreyting
+wall shelf	vegghilla
+curtain rod	gardínustöng
+fryer	djúpsteikingarpottur
+paper towel	pappírsþurrka
+napkin holder	servíettustandur
+laundry basket	þvottakarfa
+laundry detergent	mýkingarefni
+dustpan	fægiskófla
+squeegee	glerskafa
+duster	rykbursti
+trashbin	ruslatunna
+rubber gloves	gúmmíhanskar
+rag	tuska
+I organize	ég raða
+I wipe	ég strýk af

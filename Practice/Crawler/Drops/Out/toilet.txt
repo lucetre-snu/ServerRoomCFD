@@ -1,0 +1,17 @@
+air freshener	ilmsprey
+bidet	skolskál
+hand dryer	handþurrkari
+hand towel	handklæði
+I fart	ég prumpa
+I pee	ég pissa
+I poop	ég kúka
+odor	ólykt
+outhouse	útikamar
+plumbing	pípulögn
+plunger	drullusokkur
+poop	kúkur
+smell	lykt
+toilet brush	klósettbursti
+toilet paper	klósettpappír
+toilet seat	klósettseta
+urinal	þvagskál

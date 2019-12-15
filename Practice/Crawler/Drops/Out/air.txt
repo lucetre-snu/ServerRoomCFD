@@ -1,0 +1,17 @@
+balloons	loftbelgir
+airbag	loftpúði
+evaporation	uppgufun
+exhaust fume	útblástur
+fan	vifta
+gas mask	gasgríma
+hot air balloon	loftbelgur
+I breathe	ég anda
+I choke	ég kafna
+lungs	lungu
+tissue	hreinlætispappír
+parachute	fallhlíf
+paraglider	fallhlífarstökkvari
+pump	dæla
+puncture	gat
+smog	mengunarský
+airship	loftskip

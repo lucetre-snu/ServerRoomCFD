@@ -1,0 +1,18 @@
+tape measure	málband
+wrench	skiptilykill
+socket wrench	topplykill
+wire cutters	víraklippur
+clamp	þvinga
+drill bit	bor
+level	hallamál
+crowbar	kúbein
+allen wrench	sexkantlykill
+table saw	borðsög
+sandpaper	sandpappír
+work bench	vinnuborð
+chisel	sporjárn
+paint brush	málningarbursti
+color palette	litaspjald
+I complete	ég klára
+I sand	ég pússa
+I construct	ég byggi

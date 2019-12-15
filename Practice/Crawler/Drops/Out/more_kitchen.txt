@@ -1,0 +1,18 @@
+dairy	mjólkurafurðir
+lunch	hádegismatur
+dinner	kvöldmatur
+snack	snarl
+teaspoon	teskeið
+tablespoon	matskeið
+measuring cup	mæliglas
+freezer	frystir
+ice tray	ísbakki
+lunchbox	nestisbox
+egg tray	eggjabakki
+mortar and pestle	mortél og mortélstautur
+ice bucket	ísfata
+takeout	heimtökumatur
+saucer	undirskál
+crumbs	molar
+pitcher	kanna
+cork	korktappi

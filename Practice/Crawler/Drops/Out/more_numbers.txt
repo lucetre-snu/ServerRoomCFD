@@ -1,0 +1,17 @@
+eighty	áttatíu
+fifth	fimmti
+fifty	fimmtíu
+first	fyrsti
+forty	fjörutíu
+fourth	fjórði
+million	milljón
+ninety	níutíu
+second	sekúnda
+seventy	sjötíu
+sixth	sjötti
+sixty	sextíu
+third	þriðji
+thirty	þrjátíu
+thousand	þúsund
+twenty one	tuttugu og einn
+twenty two	tuttugu og tveir

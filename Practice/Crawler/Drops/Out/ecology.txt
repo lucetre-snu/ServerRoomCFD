@@ -1,0 +1,17 @@
+clean energy	hrein orka
+compost	Molta
+composting	Moltun
+deforestation	eyðing skóga
+drought	þurrkur
+garbage truck	ruslabíll
+global warming	hlýnun jarðar
+GMO	erfðabreytt lífvera
+I recycle	ég endurvinn
+landfill	Landfylling
+nuclear power plant	kjarnorkuver
+oil platform	olíuborpallur
+oil spill	olíuleki
+power plant	orkuver
+renewable energy	endurnýjanleg orka
+solar panels	sólarrafhlaða
+wind turbine	vindhverfill

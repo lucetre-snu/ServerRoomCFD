@@ -1,0 +1,17 @@
+roots	rætur
+seedlings	ungplöntur
+trellis	grind
+garden hose	garðslanga
+watering can	vökvunarkanna
+garden shears	garðklippur
+sprinklers	úðari
+flower pots	blómapottur
+hoe	hlújárn
+weed killer	illgresiseyðir
+juniper	einir
+jasmine	jasmína
+vine	vínviður
+blossom	blómi
+dungarees	vinnubuxur
+I treat	ég hlúi að
+I prune	ég klippi til

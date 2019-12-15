@@ -1,0 +1,16 @@
+fruit press	ávaxtapressa
+spatula	spaði
+cheese grater	rifjárn
+wine opener	tappatogari
+tongs	töng
+garlic press	hvítlaukspressa
+measuring cups	mæliglös
+kitchen scale	eldhúsvigt
+measuring spoons	mæliskeiðar
+wok	wok
+mustard	sinnep
+ketchup	tómatsósa
+hot sauce	sterk sósa
+soy sauce	sojasósa
+I grate	ég ríf
+I spread	ég smyr

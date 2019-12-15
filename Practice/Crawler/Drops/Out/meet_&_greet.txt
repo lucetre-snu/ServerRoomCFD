@@ -1,0 +1,17 @@
+Excuse me!	Afsakið
+You're welcome!	ekkert að þakka
+Nice to meet you!	gaman að kynnast þér
+Can you help me?	Getur þú aðstoðað?
+Good morning!	góðan dag
+Good afternoon!	góðan dag
+Good evening!	gott kvöld
+Good night!	góða nótt
+How are you?	Hvernig hefur þú það?
+Fine, thank you.	Fínt, takk.
+And you?	En þú?
+How's the weather?	Hvernig er veðrið?
+It's nice.	það er gott
+It's bad.	það er slæmt
+It's hot.	það er heitt
+It's cold.	það er kalt
+Me too.	ég líka

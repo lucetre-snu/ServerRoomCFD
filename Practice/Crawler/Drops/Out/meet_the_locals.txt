@@ -1,0 +1,18 @@
+here	hérna
+there	þarna
+What do you do?	Hvað gerir þú?
+Are you from here?	Ert þú héðan?
+a little	smá
+How old are you?	Hvað ert þú gamall?
+I have been here 5 days.	Ég hef verið hér í fimm daga.
+Who?	hver
+What?	hvað
+When?	hvenær
+Where?	hvar er matvöruverslunin?
+Why?	hvers vegna
+How?	hvernig
+over there	þarna
+wrong	rangt
+correct	rétt
+Repeat!	endurtaka
+Speak slowly!	tala hægt

@@ -1,0 +1,5 @@
+vegetarian	grænmetisæta
+What do you recommend?	Með hverju mælir þú?
+delicious	ljúffengt
+Enjoy your meal!	njóttu matarins
+Cheers!	skál

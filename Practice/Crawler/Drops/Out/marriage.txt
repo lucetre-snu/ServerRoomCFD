@@ -1,0 +1,17 @@
+bouquet	blómvöndur
+bride	brúður
+divorce	skilnaður
+groom	brúðgumi
+honeymoon	brúðkaupsferð
+I ask	ég spyr
+I give	ég gef
+proposal	bónorð
+single	einhleypur
+toast	að skála
+wedding cake	brúðarterta
+wedding contract	kaupmáli
+wedding day	brúðkaupsdagur
+wedding dress	brúðarkjóll
+wedding gift	brúðkaupsgjöf
+wedding invitation	brúðkaupsboðskort
+wedding ring	giftingarhringur

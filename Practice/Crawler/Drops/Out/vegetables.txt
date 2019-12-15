@@ -1,0 +1,17 @@
+avocado	lárpera
+bean	baun
+broccoli	spergilkál
+cabbage	hvítkál
+carrot	gulrót
+cauliflower	blómkál
+corn	maís
+cucumber	agúrka
+garlic	hvítlaukur
+lettuce	kál
+onion	laukur
+parsley	steinselja
+potato	kartafla
+pumpkin	grasker
+radish	radísa
+rice	hrísgrjón
+tomato	tómatur

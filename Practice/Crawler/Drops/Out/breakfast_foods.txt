@@ -1,0 +1,16 @@
+pancake	pönnukaka
+cereal	morgunkorn
+waffle	vaffla
+omelet	eggjakaka
+granola bar	hafrastöng
+toast	ristabrauð
+oatmeal	hafragrautur
+quiche	baka
+brioche	brioche
+couscous	kúskús
+quinoa	kínóa
+chickpea	kjúklingabaun
+oat	hafrar
+lentil	linsubaun
+I smear	ég klíni
+I wrap	ég pakka inn

@@ -1,0 +1,17 @@
+basil	basilíka
+cracker	kex
+cake	kaka
+chili	chilipipar
+chocolate	súkkulaði
+cinnamon	kanill
+cookie	smákaka
+ginger	engifer
+muffin	muffins
+doughnut	kleinuhringur
+flour	hveiti
+honey	hunang
+ice cream	rjómaís
+lollipop	sleikjó
+pepper	pipar
+salt	salt
+vanilla	vanilla

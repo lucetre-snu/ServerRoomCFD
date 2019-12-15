@@ -1,0 +1,18 @@
+skydiving	fallhlífarstökk
+free diving	frjálst fallhlífarstökk
+bungee jumping	teygjustökk
+rafting	flúðasigling
+parkour	parkour
+rollerblading	línuskauta
+motocross	torfæruhjól
+hang gliding	svifdrekaflug
+base jumping	landstökk
+bodyboarding	búkbrettareið
+wakeboarding	sjóbrettareið
+slacklining	slaklínuganga
+riding bmx	hjólað á bmx
+downhill riding	brekkuhjólreiðar
+kitesurfing	flugdrekabrettareið
+waterskiing	vatnaskíði
+I damage	ég skemmi
+I take a risk	ég tek áhættu

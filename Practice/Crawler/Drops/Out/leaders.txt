@@ -1,0 +1,17 @@
+astronaut	geimfari
+captain	skipstjóri
+coach	þjálfari
+commander	hershöfðingi
+dictator	einræðisherra
+director	leikstjóri
+king	konungur
+knight	riddari
+landlord	leigusali
+politician	stjórnmálamaður
+pope	páfi
+president	forseti
+prince	prins
+princess	prinsessa
+queen	drottning
+rebel	uppreisnarmaður
+sheriff	fógeti

@@ -1,0 +1,17 @@
+aquarium	fiskabúr
+birdcage	fuglabúr
+I caress	ég strýk
+cat bed	kattarúm
+pet carrier	ferðabúr
+cat food	kattamatur
+cat litter	kattaskítur
+pet passport	dýravegabréf
+dog collar	hundaól
+dog food	hundamatur
+dog house	hundakofi
+dog poop bag	hundakúkapoki
+goldfish	gullfiskur
+hamster	hamstur
+I walk the dog	ég geng með hundinn
+identification tag	merkispjald
+leash	taumur

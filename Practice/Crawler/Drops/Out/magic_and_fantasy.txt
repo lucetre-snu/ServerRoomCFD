@@ -1,0 +1,17 @@
+alien	geimvera
+broom	kústur
+dragon	dreki
+dwarf	dvergur
+fairy	álfur
+genie	andi
+ghost	draugur
+I hear	ég heyri
+magic wand	töfrasproti
+magician	töframaður
+monster	skrímsli
+scythe	ljár
+UFO	fljúgandi furðuhlutur
+vampire	vampíra
+witch	norn
+wizard	galdrakarl
+zombie	uppvakningur

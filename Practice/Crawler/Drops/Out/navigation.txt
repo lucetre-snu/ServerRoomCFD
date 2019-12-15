@@ -1,0 +1,17 @@
+behind	á bak við
+between	á milli
+center	miðja
+corner	horn
+direction	átt
+distance	fjarlægð
+here	hérna
+left	vinstri
+opposite	andstæða
+right	hægri
+road	vegur
+straight ahead	beint áfram
+street	gata
+there	þarna
+I climb the stairs	ég geng upp stigann
+I show	ég sýni
+I watch	ég horfi

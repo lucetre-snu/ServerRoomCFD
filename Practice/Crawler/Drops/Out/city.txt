@@ -1,0 +1,18 @@
+bank	banki
+bar	krá
+bridge	brú
+bus stop	strætóstoppistöð
+castle	kastali
+cemetery	kirkjugarður
+disco	diskó
+crosswalk	gangbraut
+crossroad	gatnamót
+laundry	þvottahús
+park	almenningsgarður
+traffic light	umferðarljós
+train station	lestarstöð
+fountain	gosbrunnur
+cathedral	dómkirkja
+I spit	ég hræki
+I cut	ég sker
+I walk	ég geng

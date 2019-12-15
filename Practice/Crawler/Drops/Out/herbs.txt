@@ -1,0 +1,18 @@
+peppermint	piparmynta
+lemongrass	sítrónugras
+horseradish	piparrót
+rosemary	rósmarín
+sage	salvía
+clove	negull
+fennel	fenníka
+lavender	lofnarblóm
+ginseng	ginseng
+catnip	kattarminta
+spearmint	garðminta
+marjoram	meiran
+saffron	saffran
+chives	graslaukur
+thyme	timjan
+mint	minta
+I infuse	ég legg í bleyti
+I soak	ég rennbleyti

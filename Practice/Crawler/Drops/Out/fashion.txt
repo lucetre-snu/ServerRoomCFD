@@ -1,0 +1,17 @@
+bowtie	slaufa
+clothes hanger	herðatré
+collar	kragi
+dressing table	snyrtiborð
+electric razor	rafmagnsrakvél
+eyebrows	augabrúnir
+fat	feitur
+waxing	háreyðing
+high heels	hælaskór
+jeans	gallabuxur
+plastic surgery	lýtalækningar
+razorblade	rakvélablað
+shaving brush	rakbursti
+shaving cream	raksturskrem
+slim	grannur
+sneaker	strigaskór
+vest	vesti

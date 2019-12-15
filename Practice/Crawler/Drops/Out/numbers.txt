@@ -1,0 +1,16 @@
+zero	núll
+one	einn
+two	tveir
+three	þrír
+four	fjórir
+five	fimm
+six	sex
+seven	sjö
+eight	átta
+nine	níu
+ten	tíu
+eleven	ellefu
+twelve	tólf
+twenty	tuttugu
+hundred	hundrað
+I think	ég held

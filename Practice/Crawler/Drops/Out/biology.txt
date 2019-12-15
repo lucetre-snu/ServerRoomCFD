@@ -1,0 +1,17 @@
+atom	atóm
+bacteria	baktería
+cell	fruma
+chemistry	efnafræði
+digestive system	meltingarkerfi
+dropper	dropateljari
+evolution	þróun
+experiment	tilraun
+faint	líða yfir
+microscope	smásjá
+molecule	sameind
+chin	haka
+pimples	bólur
+tongue	tunga
+kidney	nýra
+I swallow	ég kyngi
+I vomit	ég kasta upp

@@ -1,0 +1,17 @@
+anchor	akkeri
+crab	krabbi
+dolphin	höfrungur
+jellyfish	marglytta
+lobster	humar
+mermaid	hafmeyja
+octopus	kolkrabbi
+paddles	ár
+ray	skata
+seahorse	sæhestur
+seaweed	þang
+shell	skel
+sea snail	sjávarsnigill
+squid	smokkfiskur
+starfish	krossfiskur
+submarine	kafbátur
+whale	hvalur

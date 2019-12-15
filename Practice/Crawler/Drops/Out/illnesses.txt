@@ -1,0 +1,18 @@
+allergy	ofnæmi
+runny nose	nefrennsli
+asthma	astmi
+high blood pressure	hár blóðþrýstingur
+flu	flensa
+diabetes	sykursýki
+general surgeon	landlæknir
+cardiologist	hjartasérfræðingur
+pediatrician	barnalæknir
+dermatologist	húðsjúkdómafræðingur
+anesthiesiologist	svæfingarlæknir
+plastic surgeon	lýtalæknir
+throat lozenges	hálstöflur
+pain killer	verkjalyf
+vitamins	vítamín
+vaccine	bóluefni
+antibiotics	fúkkalyf
+I shiver	ég skelf

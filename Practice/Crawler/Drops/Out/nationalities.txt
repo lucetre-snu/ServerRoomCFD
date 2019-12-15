@@ -1,0 +1,17 @@
+American	bandarískur
+Australian	ástralskur
+Brazilian	brasilískur
+British	breskur
+Canadian	kanadískur
+Chinese	kínverskur
+Dutch	hollenskur
+Finnish	finnskur
+French	franskur
+German	þýskur
+Italian	ítalskur
+Japanese	japanskur
+Mexican	mexíkóskur
+Norwegian	norskur
+Russian	rússneskur
+Spanish	spænskur
+Swedish	sænskur

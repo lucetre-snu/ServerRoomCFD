@@ -1,0 +1,17 @@
+abdomen	kviður
+bathrobe	náttsloppur
+deck chair	strandstóll
+hot tub	heitur pottur
+I relax	ég slaka á
+jacuzzi	nuddpottur
+liquid soap	fljótandi sápa
+locker room	búningsklefi
+massage	nudd
+sauna	gufubað
+steam room	gufubað
+swimming pool	sundlaug
+thermal bath	náttúrulaug
+thermal water	heitt vatn
+throat	háls
+water slide	rennibraut
+weight loss	þyngdartap

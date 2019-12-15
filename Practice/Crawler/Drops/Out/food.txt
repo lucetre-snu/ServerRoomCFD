@@ -1,0 +1,17 @@
+bread	brauð
+breakfast	morgunmatur
+fruits	ávextir
+cheese	ostur
+egg	egg
+fish	fiskur
+fork	gaffall
+soup	súpa
+mushroom	sveppur
+knife	hnífur
+lemon	sítróna
+meat	kjöt
+spoon	skeið
+sugar	sykur
+salad	salat
+I eat	ég borða
+I cook	ég elda

@@ -1,0 +1,18 @@
+What's this called?	Hvað er þetta kallað?
+How far?	Hversu langt?
+Is it near?	Er það nálægt?
+How long to get to the airport?	Hvað er langt á flugvöllinn?
+On the left.	til vinstri
+On the right.	til hægri
+Slow down!	hægðu á þér
+Leave at what time?	Fara klukkan hvað?
+today	í dag
+tomorrow	á morgun
+yesterday	í gær
+now	núna
+later	seinna
+What time is it?	Hvað er klukkan?
+It's 3 o'clock.	Hún er 3.
+To the airport please!	Á flugvöllinn, takk!
+Can you take my photo?	Getur þú tekið mynd af mér?
+Can I take your photo?	Má ég taka mynd af þér?

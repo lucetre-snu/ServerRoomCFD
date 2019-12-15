@@ -1,0 +1,18 @@
+jersey	íþróttatreyja
+substitute	varamaður
+corner	horn
+cleats	takkar
+yellow card	gult spjald
+red card	rautt spjald
+foul	brot
+header	skalli
+kick off	útspark
+slam dunk	troðsla
+free throw	aukakast
+basketball net	körfuboltakarfa
+three-point line	þriggja punkta lína
+jump shot	stökkskot
+throw in	innkast
+I pass the ball	ég gef boltann
+I dribble	ég dripla
+I guard	ég gæti marksins

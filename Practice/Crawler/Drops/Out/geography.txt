@@ -1,0 +1,17 @@
+beach	strönd
+cave	hellir
+forest	skógur
+harbor	höfn
+hill	hæð
+island	eyja
+lake	vatn
+map	landakort
+mountain	fjall
+path	stígur
+river	á
+scenery	landslag
+shore	fjara
+valley	dalur
+peninsula	skagi
+I blow	ég blæs
+I swim	ég syndi

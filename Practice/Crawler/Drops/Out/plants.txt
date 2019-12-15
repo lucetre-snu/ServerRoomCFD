@@ -1,0 +1,17 @@
+bamboo	bambus
+branch	trjágrein
+cactus	kaktus
+flower	blóm
+grass	gras
+herbs	kryddjurtir
+leaf	lauf
+log	trjástofn
+palm tree	pálmatré
+pine tree	furutré
+root	rót
+seed	fræ
+soil	jarðvegur
+sprout	spíra
+stick	spýta
+tree	tré
+wood	viður

@@ -1,0 +1,17 @@
+Africa	Afríka
+America	Ameríka
+Asia	Asía
+moon	tungl
+comet	halastjarna
+Earth	Jörðin
+east	austur
+Europe	Evrópa
+galaxy	vetrarbraut
+north	norður
+planet	pláneta
+south	suður
+space	geimur
+star	stjarna
+telescope	sjónauki
+time zone	tímabelti
+west	vestur

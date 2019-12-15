@@ -1,0 +1,17 @@
+kettlebell	ketilbjalla
+dumbbell	handlóð
+stationary bike	þrekhjól
+barbell	lóðastöng
+treadmill	hlaupabretti
+personal trainer	einkaþjálfari
+exercise ball	æfingabolti
+resistance band	æfingateygjur
+yoga mat	jógamotta
+rowing machine	róðrarvél
+medicine ball	sandfylltur leðurbolti
+punching bag	æfingapoki
+pullup bar	upphífingastöng
+pushup	armbeygja
+bib	vesti
+I lift	ég lyfti
+I punch	ég slæ

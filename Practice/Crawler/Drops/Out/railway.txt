@@ -1,0 +1,18 @@
+time table	tímatafla
+platform	lestarpallur
+railroad tracks	járnbrautarteinar
+train conductor	lestarstjóri
+steam engine	gufuvél
+freight train	fragtlest
+dining car	veitingavagn
+junction	járnbrautamót
+pull cord	togsnúra
+interrail	interrail
+luggage rack	farangurshilla
+information board	upplýsingatafla
+viaduct	dalbrú
+underground crossing	undirgöng
+stowaway	laumufarþegi
+handhold	handfang
+it derails	fer út af sporinu
+I change	ég skipti

@@ -1,0 +1,17 @@
+baseball	hafnabolti
+basketball	körfubolti
+boxing	box
+chess	skák
+fencing	skylmingar
+football	bandarískur fótbolti
+horse racing	hestamennska
+mountain biking	fjallahjólreiðar
+road cycling	hjólreiðar á vegi
+sailing	siglingar
+soccer	fótbolti
+surfing	brimbrettabrun
+swimming	sund
+tennis	tennis
+yoga	jóga
+I kick	ég sparka
+I throw	ég kasta

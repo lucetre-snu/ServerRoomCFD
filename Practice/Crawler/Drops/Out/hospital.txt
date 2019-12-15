@@ -1,0 +1,17 @@
+blood	blóð
+crutch	hækja
+examination	læknisskoðun
+heartbeat	hjartsláttur
+I cough	ég hósta
+I wait	ég bíð
+infusion	innrennsli
+medical bill	sjúkrakostnaður
+medical record	sjúkraskrá
+patient	sjúklingur
+patient admission	innlögn
+pulse	púls
+syringe	sprauta
+stethoscope	hlustunarpípa
+stretcher	sjúkrabörur
+surgeon	skurðlæknir
+x-ray	röntgenmyndataka

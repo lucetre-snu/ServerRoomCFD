@@ -1,0 +1,17 @@
+bike bell	hjólabjalla
+bike fork	hjólagaffall
+bike lock	hjólalás
+bike wheel	hjóladekk
+bike brake	hjólabremsa
+bike chain	hjólakeðja
+bike gloves	hjólahanskar
+bike lane	hjólastígur
+brake lever	bremsuhandfang
+cassette	hjólasnælda
+chainring	keðja
+crank	sveifarás
+handlebar	stýri
+bicycle helmet	reiðhjólahjálmur
+pedal	pedali
+saddle	hnakkur
+It rolls	það rennur

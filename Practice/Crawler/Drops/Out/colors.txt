@@ -1,0 +1,15 @@
+black	svartur
+blue	blár
+brown	brúnn
+gold	gylltur
+green	grænn
+gray	grár
+orange	appelsínugulur
+pink	bleikur
+purple	fjólublár
+rainbow	regnbogi
+red	rauður
+silver	silfur
+white	hvítur
+yellow	gulur
+I paint	ég mála

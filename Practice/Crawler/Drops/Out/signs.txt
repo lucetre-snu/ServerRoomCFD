@@ -1,0 +1,17 @@
+steep road	brattur vegur
+hazardous materials	hættulegt efni
+stop sign	stöðvunarmerki
+no trespassing	óviðkomandi bannaður aðgangur
+biohazard	líffræðileg hætta
+do not enter	aðgangur bannaður
+slippery floor	hált gólf
+roadwork	vegavinna
+pedestrian crossing	gangbraut
+animal crossing	dýr á ferð
+falling rocks	grjóthrun
+give way sign	biðskyldumerki
+children crossing	börn á ferð
+danger	hætta
+high voltage	háspenna
+u-turn	u-beygja
+I give way	ég vík

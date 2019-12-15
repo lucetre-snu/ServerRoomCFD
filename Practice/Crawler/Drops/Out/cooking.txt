@@ -1,0 +1,17 @@
+blender	blandari
+can	dós
+cookbook	matreiðslubók
+corkscrew	tappatogari
+grater	rifjárn
+juicer	safapressa
+ladle	ausa
+mixer	hrærivél
+mixing bowl	hræriskál
+nutcracker	hnetubrjótur
+pepper mill	piparkvörn
+sponge	svampur
+strainer	sigti
+thermometer	hitamælir
+timer	tímamælir
+toaster	brauðrist
+whisk	þeytari

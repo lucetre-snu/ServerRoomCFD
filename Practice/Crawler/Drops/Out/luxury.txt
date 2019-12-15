@@ -1,0 +1,18 @@
+yacht	snekkja
+limousine	eðalvagn
+sommelier	vínþjónn
+personal chef	einkakokkur
+champagne	kampavín
+oyster	ostra
+chauffeur	einkabílstjóri
+caviar	kavíar
+tailored clothes	klæðskerasaumuð föt
+butler	bryti
+personal assistant	persónulegur aðstoðarmaður
+rich	ríkur
+private jet	einkaþota
+bodyguard	lífvörður
+auction	uppboð
+fine dining	fínn veitingastaður
+I inherit	ég erfi
+I gain	ég öðlast

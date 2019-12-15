@@ -1,0 +1,12 @@
+coffee	kaffi
+coke	kók
+hot chocolate	heitt súkkulaði
+drink	drykkur
+milk	mjólk
+mineral water	ölkelduvatn
+orange juice	appelsínusafi
+soda	gos
+tea	te
+water	vatn
+I drink	ég drekk
+I dislike	mér líkar illa við

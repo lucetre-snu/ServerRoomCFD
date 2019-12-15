@@ -1,0 +1,17 @@
+bathroom stall	salernisbás
+toilet paper holder	klósettrúlluhaldari
+toilet seat cover	klósettseta
+squatting pan	tyrkneskt salerni
+drain	niðurfall
+towel rack	handklæðahengi
+bathroom attendant	salernisvörður
+overflow	yfirflæði
+leak	leki
+clogged drain	stíflað niðurfall
+occupied	upptekið
+vacant	laust
+I leave the seat up	ég skil setuna eftir uppi
+I put the seat down	ég set setuna niður
+I squat	ég sit á hækjum mér
+I flush	ég sturta niður
+I scrub	ég skrúbba

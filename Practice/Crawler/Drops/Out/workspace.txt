@@ -1,0 +1,18 @@
+paperclip	bréfaklemma
+desk	skrifborð
+file cabinet	skjalaskápur
+photocopier	ljósritunarvél
+conference room	fundaherbergi
+watercooler	vatnskælir
+cafeteria	kaffitería
+staple remover	heftilosari
+standing desk	upphækkað skrifborð
+cubicle	rými
+word processor	ritvinnsla
+cloud storage	skýjageymsla
+night shift	næturvakt
+I employ	ég ræð í vinnu
+I improve	ég bæti
+I print	ég prenta
+I copy	ég afrita
+I scan	ég skanna

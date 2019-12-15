@@ -1,0 +1,17 @@
+Australia	Ástralía
+Brazil	Brasilía
+Canada	Kanada
+China	Kína
+Finland	Finnland
+France	Frakkland
+Germany	Þýskaland
+Great Britain	Bretland
+Italy	Ítalía
+Japan	Japan
+Mexico	Mexíkó
+Norway	Noregur
+Russia	Rússland
+Spain	Spánn
+Sweden	Svíþjóð
+the Netherlands	Holland
+the United States of America	Bandaríkin

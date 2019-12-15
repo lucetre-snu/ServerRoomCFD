@@ -1,0 +1,18 @@
+firetruck	slökkviliðsbíll
+pickup truck	pallbíll
+police car	lögreglubíll
+electric car	rafmagnsbíll
+SUV	jepplingur
+convertible	blæjubíll
+rickshaw	léttivagn
+minivan	sendibíll
+bulldozer	jarðýta
+auto transporter	bílaflutningabíll
+towtruck	dráttarbíll
+dump truck	ruslabíll
+glider	sviffluga
+rocket	eldflaug
+business jet	einkaþota
+drone	dróni
+I accelerate	ég fer hraðar
+I brake	ég hemla

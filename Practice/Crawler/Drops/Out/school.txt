@@ -1,0 +1,17 @@
+book	bók
+calculator	reiknivél
+classroom	kennslustofa
+diploma	prófskírteini
+eraser	strokleður
+exam	próf
+graduation	útskrift
+ink	blek
+lecture	fyrirlestur
+notebook	stílabók
+paper clip	bréfaklemma
+pen	penni
+pencil	blýantur
+ruler	reglustika
+student id	nemendaskírteini
+whiteboard	tússtafla
+I study	ég læri

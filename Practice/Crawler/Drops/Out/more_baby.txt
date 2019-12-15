@@ -1,0 +1,18 @@
+high chair	barnastóll
+stroller	barnakerra
+pram	barnavagn
+carseat	barnabílstóll
+baby powder	barnapúður
+babysitter	barnfóstra
+sippy cup	stútkanna
+baby food	barnamatur
+breastfeed	brjóstagjöf
+infant formula	ungbarnablanda
+teething ring	naghringur
+diaper rash	bleyjuútbrot
+seat reducer	barnaklósettseta
+baby carrier	barnaburðarpoki
+diaper bag	bleyjupoki
+baby wipes	blautþurrkur
+we cuddle	við kúrum
+I read aloud	ég les upphátt

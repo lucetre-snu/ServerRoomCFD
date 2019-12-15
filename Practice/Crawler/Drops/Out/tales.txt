@@ -1,0 +1,18 @@
+jester	hirðfífl
+troll	tröll
+giant	risi
+werewolf	varúlfur
+hero	hetja
+villain	skúrkur
+curse	bölvun
+storybook	sögubók
+centaur	kentár
+cyclops	kýklópi
+yeti	snjómaður
+demon	púki
+pegasus	pegasus
+heroine	kvenhetja
+armor	brynja
+magic lamp	töfralampi
+I rescue	ég bjarga
+I defeat	ég sigra

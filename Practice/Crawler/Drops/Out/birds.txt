@@ -1,0 +1,17 @@
+birdhouse	fuglahús
+hummingbird	kólíbrífugl
+crow	kráka
+falcon	fálki
+feather	fjöður
+goose	gæs
+ostrich	strútur
+owl	ugla
+parrot	páfagaukur
+pelican	pelíkani
+penguin	mörgæs
+rooster	hani
+seagull	mávur
+flamingo	flamingó
+swallow	svala
+swan	svanur
+eagle	örn

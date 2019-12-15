@@ -1,0 +1,17 @@
+apartment	íbúð
+beach house	strandhús
+cottage	kot
+farmhouse	bóndabær
+fortress	virki
+houseboat	húsbátur
+hut	kofi
+lighthouse	viti
+log cabin	bjálkakofi
+mansion	höfðingjasetur
+palace	höll
+tent	tjald
+trailer	hjólhýsi
+treehouse	tréhús
+villa	einbýlishús
+windmill	vindmylla
+I build	ég byggi

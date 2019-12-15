@@ -1,0 +1,18 @@
+earache	eyrnaverkur
+stomachache	magaverkur
+backache	bakverkur
+bruise	marblettur
+blurry vision	þokukennd sjón
+stiff neck	stífur háls
+blister	blaðra
+chapped lips	varaþurrkur
+sunburn	sólbruni
+dizzy	svimar
+nauseous	óglatt
+insect bite	skordýrabit
+pain	verkur
+bone fracture	beinbrot
+muscle strain	vöðvabólga
+cramp	krampi
+I care	ég annast
+it hurts	það er sárt

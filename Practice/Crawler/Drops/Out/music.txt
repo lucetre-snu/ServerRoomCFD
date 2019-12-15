@@ -1,0 +1,17 @@
+applause	klapp
+audience	áhorfendur
+choir	kór
+conductor	hljómsveitarstjóri
+DJ	plötusnúður
+drum	trommur
+guitar	gítar
+microphone	hljóðnemi
+music album	hljómplata
+piano	píanó
+rockstar	rokkstjarna
+singer	söngvari
+song	lag
+stage	svið
+trumpet	trompet
+violin	fiðla
+whistle	flauta

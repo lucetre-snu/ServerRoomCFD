@@ -1,0 +1,17 @@
+apron	svunta
+barista	barþjónn
+brew time	bið eftir drykk
+coconut water	kókosvatn
+coffee bean	kaffibaun
+coffee grinder	kaffikvörn
+espresso	espressó
+espresso machine	espressóvél
+filter coffee	uppáhellt kaffi
+French press	pressukanna
+chef's hat	kokkahattur
+I taste	ég smakka
+latte	mjólkurkaffi
+take-away cup	kaffimál
+tea bag	tepoki
+tea egg	tesía
+tea leaf	telauf

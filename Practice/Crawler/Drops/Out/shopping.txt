@@ -1,0 +1,18 @@
+ATM machine	hraðbanki
+banknote	peningaseðill
+coin	mynt
+coupon	afsláttarmiði
+credit card	kreditkort
+currency	gjaldmiðill
+customer	viðskiptavinur
+shopping basket	innkaupakarfa
+cashier	gjaldkeri
+wallet	veski
+dollar	dollari
+euro	evra
+shop assistant	afgreiðslumaður
+shop	búð
+money	peningur
+I win	ég vinn
+I exit	ég fer út
+I buy	ég kaupi

@@ -1,0 +1,17 @@
+bird	fugl
+bull	naut
+cat	köttur
+chicken	kjúklingur
+cow	kýr
+dog	hundur
+donkey	asni
+duck	önd
+goat	geit
+horse	hestur
+mouse	mús
+pig	svín
+pigeon	dúfa
+rabbit	kanína
+sheep	kind
+turkey	kalkúnn
+I feed	ég fóðra

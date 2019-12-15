@@ -1,0 +1,16 @@
+badminton	badminton
+biathlon	skíðaskotfimi
+climbing	klifur
+golf	golf
+gymnastics	fimleikar
+handball	handbolti
+ice hockey	íshokkí
+ice skating	listdans á skautum
+motorcycling	vélhjólasport
+paragliding	svifvængjaflug
+scuba diving	sportköfun
+skiing	skíðaíþróttir
+snowboarding	snjóbretti
+table tennis	borðtennis
+volleyball	blak
+water polo	vatnapóló

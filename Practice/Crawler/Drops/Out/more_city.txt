@@ -1,0 +1,17 @@
+car accident	bílslys
+bench	bekkur
+bike rack	reiðhjólastæði
+billboard	auglýsingaskilti
+dentist	tannlæknir
+fence	girðing
+fire station	slökkvilið
+gym	líkamsræktarstöð
+hostel	farfuglaheimili
+parking meter	stöðumælir
+prison	fangelsi
+statue	stytta
+tourist information	upplýsingamiðstöð ferðamanna
+town hall	ráðhús
+university	háskóli
+zoo	dýragarður
+I shout	ég hrópa

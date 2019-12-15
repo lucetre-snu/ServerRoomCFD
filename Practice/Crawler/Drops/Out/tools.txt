@@ -1,0 +1,17 @@
+axe	öxi
+drill	bor
+glue	lím
+hammer	hamar
+ladder	stigi
+nail	nagli
+nut	ró
+pliers	tangir
+rake	hrífa
+razor	rakvélablað
+saw	sög
+screw	skrúfa
+screwdriver	skrúfjárn
+shovel	skófla
+spade	skófla
+tape	límband
+toolbox	verkfærabox

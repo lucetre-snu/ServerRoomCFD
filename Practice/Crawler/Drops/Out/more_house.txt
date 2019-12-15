@@ -1,0 +1,17 @@
+attic	háaloft
+hallway	gangur
+storage closet	geymsluskápur
+front yard	fyrir framan hús
+driveway	innkeyrsla
+pantry	matarbúr
+patio	sólpallur
+balcony	svalir
+roof	þak
+chimney	reykháfur
+living room	stofa
+doorbell	dyrabjalla
+stairwell	stigi
+drainage	frárennsli
+doorstep	dyraþrep
+I air out	ég lofta út
+I arrange	ég raða

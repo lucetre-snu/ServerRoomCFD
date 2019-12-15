@@ -1,0 +1,13 @@
+one hundred fifty	hundrað og fimmtíu
+two hundred	tvö hundruð
+three hundred	þrjú hundruð
+four hundred	fjögur hundruð
+five hundred	fimm hundruð
+two thousand	tvö þúsund
+three thousand	þrjú þúsund
+four thousand	fjögur þúsund
+five thousand	fimm þúsund
+ten thousand	tíu þúsund
+fifty thousand	fimmtíu þúsund
+one hundred thousand	hundrað þúsund
+one million	milljón

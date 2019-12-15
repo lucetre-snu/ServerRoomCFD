@@ -1,0 +1,17 @@
+address	heimilisfang
+airmail	flugpóstur
+bike messenger	hjólasendill
+envelope	umslag
+letter	bréf
+mail truck	póstbíll
+mailbox	pósthólf
+parcel service	pakkaþjónusta
+postcard	póstkort
+postman	bréfberi
+priority mail	forgangspóstur
+returned mail	endursendur póstur
+seal	innsigli
+sender	sendandi
+signature	undirskrift
+stamp	frímerki
+weight	þyngd

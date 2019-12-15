@@ -1,0 +1,17 @@
+bell	bjalla
+birthday	afmæli
+carnival	kjötkveðjuhátíð
+Christmas	jól
+Christmas tree	jólatré
+fireworks	flugeldar
+funeral	jarðarför
+gift	gjöf
+Halloween	hrekkjavaka
+marriage	hjónaband
+mother's day	mæðradagur
+New Year's Eve	gamlaárskvöld
+Santa Claus	jólasveinn
+snowman	snjókarl
+Valentine's day	valentínusardagur
+wedding	brúðkaup
+I celebrate	ég fagna

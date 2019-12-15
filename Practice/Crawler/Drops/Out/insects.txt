@@ -1,0 +1,17 @@
+beekeeper	býflugnabóndi
+beetle	bjalla
+caterpillar	fiðrildislirfa
+dragonfly	drekafluga
+firebug	blysbjalla
+flea	fló
+fly	fluga
+grasshopper	engispretta
+hive	býflugnabú
+hornet	vespa
+ladybug	maríubjalla
+larvae	lirfa
+mantis	bænabeiða
+mosquito	moskítófluga
+scorpion	sporðdreki
+tick	skógarmítill
+worm	ormur

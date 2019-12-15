@@ -1,0 +1,17 @@
+arsonist	brennuvargur
+bike theft	reiðhjólaþjófnaður
+bribe	mútur
+CCTV	eftirlitsmyndavélar
+credit card fraud	kreditkortasvik
+crime scene	glæpavettvangur
+detective	rannsóknarlögreglumaður
+hacker	tölvuhakkari
+I break in	ég brýst inn
+I steal	ég stel
+investigation	rannsókn
+murder	morð
+pepper spray	piparúði
+robber	ræningi
+siren	sírena
+theft	þjófnaður
+thief	þjófur

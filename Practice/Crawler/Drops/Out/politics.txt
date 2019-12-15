@@ -1,0 +1,17 @@
+ballot	atkvæðagreiðsla
+barricade	götuvígi
+corruption	spilling
+coup	valdarán
+debate	kappræður
+demonstration	mótmæli
+dethrone	steypa af stóli
+embassy	sendiráð
+fortune teller	spámaður
+government	ríkisstjórn
+I touch	ég snerti
+I vote	ég kýs
+parliament	þing
+petition	krafa
+riot	óeirðir
+riot police	óeirðalögreglan
+tax	skattur

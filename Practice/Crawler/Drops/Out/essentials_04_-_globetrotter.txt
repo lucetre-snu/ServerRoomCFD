@@ -1,0 +1,18 @@
+twenty	tuttugu
+hundred	hundrað
+left	vinstri
+right	hægri
+straight ahead	beint áfram
+forty	fjörutíu
+thirty	þrjátíu
+thousand	þúsund
+I'm from	ég er frá
+do not enter	aðgangur bannaður
+cash only	aðeins peningar
+Go away!	farðu burt
+I'm lost.	Ég er týndur
+I'm sick.	Ég er veikur
+Stop here!	stöðva hér
+Where are you from?	Hvaðan ertu?
+What's your name?	Hvað heitir þú?
+My name is Alex.	Ég heiti Alex.

@@ -1,0 +1,17 @@
+alarm clock	vekjaraklukka
+blinds	rimlagardínur
+bunk bed	koja
+dream	draumur
+hammock	hengirúm
+humidifier	rakatæki
+insomnia	svefnleysi
+nap	blundur
+night	nótt
+nightmare	martröð
+nightstand	náttborð
+sleep mask	svefngríma
+sleep walking	svefnganga
+sleeping	að sofa
+sleeping pill	svefnpilla
+snoring	hrotur
+yawn	geispi

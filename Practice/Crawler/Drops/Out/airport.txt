@@ -1,0 +1,16 @@
+airport	flugvöllur
+airplane	flugvél
+check-in	innritun
+flight ticket	flugmiði
+scale	vigt
+destination	áfangastaður
+excess baggage	aukafarangur
+arrival	koma
+departure	brottför
+stewardess	flugfreyja
+passenger	farþegi
+suitcase	ferðataska
+passport control	vegabréfaeftirlit
+luggage cart	farangurskerra
+baggage claim	endurheimt farangurs
+I travel	ég ferðast

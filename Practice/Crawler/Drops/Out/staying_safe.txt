@@ -1,0 +1,18 @@
+airport	flugvöllur
+hotel	hótel
+bank	banki
+train station	lestarstöð
+post office	pósthús
+doctor	læknir
+bus station	umferðarmiðstöð
+stairs	stigi
+Keep off!	Burtu
+Don't touch!	ekki snerta
+Be careful!	farðu varlega
+Watch out!	gættu þín
+I lost my wallet.	Ég týndi veskinu mínu.
+Can I use your mobile?	Má ég nota farsímann þinn?
+emergency exit	neyðarútgangur
+telephone	sími
+metro station	neðanjarðarlestarstöð
+market	markaður

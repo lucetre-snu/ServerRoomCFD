@@ -1,0 +1,17 @@
+camp	tjaldbúðir
+mosquito net	flugnanet
+flashlight	vasaljós
+candle	kerti
+canned food	dósamatur
+compass	áttaviti
+rope	reipi
+sleeping bag	svefnpoki
+campfire	varðeldur
+scissors	skæri
+can opener	dósaopnari
+pocket knife	vasahnífur
+light	ljós
+matches	eldspýtur
+water bottle	vatnsflaska
+I shoot	ég skýt
+I climb	ég klifra

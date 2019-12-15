@@ -1,0 +1,17 @@
+barbecue	grill
+fire	eldur
+fire alarm	brunaboði
+fire alarm button	eldvarnarhnappur
+fire exit	flóttaleið
+fire extinguisher	slökkvitæki
+fire hose	brunaslanga
+fire hydrant	brunahani
+fire sprinkler	úðakerfi
+forest fire	skógareldur
+house fire	húsbruni
+I extinguish	ég slekk á
+I light up	ég kveiki í
+smoke	reykur
+smoke detector	reykskynjari
+spark	neisti
+torch	kyndill

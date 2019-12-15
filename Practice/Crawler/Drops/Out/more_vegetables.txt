@@ -1,0 +1,18 @@
+leek	blaðlaukur
+asparagus	aspas
+pea	baun
+brussels sprout	rósakál
+bok choy	kínakál
+artichoke	ætiþistill
+eggplant	eggaldin
+squash	kúrbítur
+sweet potato	sæt kartafla
+sprouts	spírur
+kale	grænkál
+beetroot	rauðrófa
+butternut squash	butternut grasker
+soybeans	sojabaunir
+I boil	ég sýð
+I braise	ég soðsteiki
+I peel	ég flysja
+I dice	ég sker í bita

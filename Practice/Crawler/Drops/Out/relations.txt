@@ -1,0 +1,11 @@
+boss	yfirmaður
+parents	foreldrar
+family	fjölskylda
+father	faðir
+girlfriend	kærasta
+grandfather	afi
+grandmother	amma
+children	börn
+mother	móðir
+boyfriend	kærasti
+I listen	ég hlusta

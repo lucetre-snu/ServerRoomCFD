@@ -1,0 +1,17 @@
+relay baton	hlaupakefli
+high jump	hástökk
+long jump	langstökk
+triple jump	þrístökk
+pole vaulting	stangarstökk
+weight throwing	kúluvarp
+hammer throw	sleggjukast
+javelin	spjótkast
+discus	kringlukast
+starting block	starthola
+lane	braut
+sprints	spretthlaup
+marathon	maraþon
+running shoes	hlaupaskór
+heart rate	hjartsláttur
+I start	ég byrja
+I pass	ég læt ganga

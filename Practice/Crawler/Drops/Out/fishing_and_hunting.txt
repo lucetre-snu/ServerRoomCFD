@@ -1,0 +1,17 @@
+antlers	horn
+bait	beita
+fishbone	fiskbein
+fishing boat	fiskibátur
+deer	dádýr
+fishing rod	veiðistöng
+fishing float	flotholt
+hook	krókur
+hunter	veiðimaður
+knot	hnútur
+paw	loppa
+sardines	sardínur
+spear fishing	spjótveiðar
+fox	refur
+target	skotmark
+hunting trophy	veiðiminjagripur
+I hunt	ég veiði

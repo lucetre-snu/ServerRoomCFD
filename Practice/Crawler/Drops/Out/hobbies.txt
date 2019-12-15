@@ -1,0 +1,18 @@
+sewing	saumaskapur
+drawing	teikning
+knitting	prjónaskapur
+woodworking	trésmíði
+model building	módelsmíði
+jewelry making	skartgripagerð
+birdwatching	fuglaskoðun
+foreign language learning	læra erlend tungumál
+baking	bakstur
+board games	borðspil
+embroidery	útsaumur
+pottery	leirkeragerð
+collecting stamps	frímerkjasöfnun
+volunteering	sjálfboðavinna
+fishing	fiskveiðar
+I listen to music	ég hlusta á tónlist
+I make	ég geri
+I enjoy	ég hef gaman af

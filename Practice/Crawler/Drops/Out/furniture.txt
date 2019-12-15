@@ -1,0 +1,17 @@
+armchair	hægindastóll
+bookshelf	bókahilla
+cabinet	skápur
+carpet	teppi
+dishwasher	uppþvottavél
+door handle	hurðarhúnn
+door lock	hurðarlás
+light switch	ljósrofi
+mirror	spegill
+office chair	skrifstofustóll
+pillow	koddi
+radiator	ofn
+sofa	sófi
+wall	veggur
+wardrobe	fataskápur
+washing machine	þvottavél
+window	gluggi

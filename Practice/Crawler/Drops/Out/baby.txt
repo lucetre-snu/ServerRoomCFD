@@ -1,0 +1,17 @@
+baby bottle	barnapeli
+baby crib	barnarúm
+baby rattle	hringla
+bouncer	barnastóll
+bib	smekkur
+birth	fæðing
+breastfeeding	brjóstagjöf
+contraceptive	getnaðarvörn
+diaper	bleyja
+diaper change	bleyjuskipti
+fetus	fóstur
+I crawl	ég skríð
+I cry	ég græt
+pacifier	snuð
+potty	koppur
+pregnancy	meðganga
+twins	tvíburar

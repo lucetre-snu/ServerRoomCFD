@@ -1,0 +1,17 @@
+addition	samlagning
+angle	horn
+division	deiling
+equal	jafnt og
+equation	jafna
+function	fall
+infinite	óendanlegt
+multiplication	margföldun
+parentheses	svigi
+percentage	prósenta
+root	kvaðratrót
+square	veldi
+subtraction	frádráttur
+seventh	sjöundi
+eighth	áttundi
+I decrease	ég lækka
+I increase	ég hækka

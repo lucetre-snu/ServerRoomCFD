@@ -1,0 +1,15 @@
+hotel	hótel
+housekeeper	starfsmaður í ræstingu
+accommodation	gistiaðstaða
+key card	lykilkort
+room service	herbergisþjónusta
+the safe	öryggishólfið
+shower	sturta
+room	herbergi
+air conditioner	loftkæling
+bellboy	bjöllustrákur
+guest	gestur
+key	lykill
+elevator	lyfta
+reception	gestamóttaka
+receptionist	starfsmaður í gestamóttöku

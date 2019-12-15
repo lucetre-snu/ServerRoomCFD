@@ -1,0 +1,18 @@
+volcanic eruption	eldgos
+landslide	skriða
+hailstorm	haglél
+tsunami	flóðbylgja
+typhoon	fellibylur
+earthquake	jarðskjálfti
+rockslide	grjóthrun
+lava flow	hraunrennsli
+blizzard	snjóstormur
+thunderstorm	þrumuveður
+hurricane	hvirfilbylur
+meteor impact	loftsteinahrap
+refugee	flóttamaður
+heat wave	hitabylgja
+famine	hungursneyð
+I collapse	ég hníg niður
+I run for cover	ég hleyp í skjól
+I rescue	ég bjarga

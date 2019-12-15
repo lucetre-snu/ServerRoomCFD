@@ -1,0 +1,17 @@
+cards	spil
+cinema	bíó
+concert	tónleikar
+exhibition	sýning
+newspaper	dagblað
+party	veisla
+pub	krá
+match	íþróttaleikur
+chat	spjall
+video games	tölvuleikir
+restaurant	veitingahús
+hangover	þynnka
+sightseeing	skoðunarferð
+dance	dans
+I sing	ég syng
+I dance	ég dansa
+I watch tv	ég horfi á sjónvarpið

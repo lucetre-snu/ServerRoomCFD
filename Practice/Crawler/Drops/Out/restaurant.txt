@@ -1,0 +1,17 @@
+ashtray	öskubakki
+bill	reikningur
+bottle	flaska
+chef	kokkur
+condiments	meðlæti
+dessert	eftirréttur
+fast food	skyndibiti
+food truck	matarbíll
+menu	matseðill
+napkin	servíetta
+street food	götumatur
+tablecloth	borðdúkur
+tip	þjórfé
+toothpick	tannstöngull
+tray	bakki
+waitress	gengilbeina
+I pay	ég borga

@@ -1,0 +1,17 @@
+avalanche	snjóflóð
+capital city	höfuðborg
+cliff	klettur
+desert	eyðimörk
+dunes	sandöldur
+flood	flóð
+globe	hnattlíkan
+peak	tindur
+rock	grjót
+sea	sjór
+ski slope	skíðabrekka
+tornado	skýstrokkur
+tunnel	göng
+volcano	eldfjall
+waterfall	foss
+wave	alda
+world	heimurinn

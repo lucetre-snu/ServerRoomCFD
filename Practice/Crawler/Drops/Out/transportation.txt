@@ -1,0 +1,17 @@
+train	lest
+trolleybus	rafknúinn strætisvagn
+truck	vörubíll
+van	sendiferðabíll
+tram	sporvagn
+underground	neðanjarðarlest
+moped	vespa
+ship	skip
+motorcycle	mótorhjól
+helicopter	þyrla
+bus	strætó
+car	bíll
+bike	hjól
+boat	bátur
+traffic jam	umferðarteppa
+I ride a bicycle	ég hjóla
+I put down	ég set niður

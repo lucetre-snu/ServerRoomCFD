@@ -1,0 +1,17 @@
+deodorant	svitalyktareyðir
+eye drops	augndropar
+eyelash	augnhár
+hand cream	handáburður
+I clean	ég þríf
+lip balm	varasalvi
+lipstick	varalitur
+makeup brush	förðunarbursti
+manicure scissors	naglaskæri
+mascara	maskari
+nail clipper	naglaklippa
+nail file	naglaþjöl
+nail polish	naglalakk
+perfume	ilmvatn
+cotton swab	eyrnapinnar
+shampoo	sjampó
+toiletry	snyrtivörur

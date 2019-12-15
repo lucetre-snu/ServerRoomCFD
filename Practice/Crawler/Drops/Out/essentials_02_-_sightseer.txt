@@ -1,0 +1,16 @@
+bye	bless
+ATM machine	hraðbanki
+credit card	kreditkort
+hospital	sjúkrahús
+Please wait!	vinsamlegast bíddu
+gents	herrar
+ladies	dömur
+Where is the supermarket?	Hvar er matvöruverslunin?
+No problem!	ekkert mál
+That one!	þennan
+entrance	inngangur
+exit	útgangur
+police	lögregla
+How many?	Hversu mörg?
+One more!	einn í viðbót
+One less!	einum minna
