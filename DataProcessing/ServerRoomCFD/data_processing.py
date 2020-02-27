@@ -67,14 +67,14 @@ if __name__ == '__main__':
     wf = open('ServerRoomCFD.tensor', mode='w')
     for i in range(len(modes[0])):
         for j in range(len(modes[1])):
-            filename = modes[0][i] + '/' + modes[1][j] + '/aircon_Inlet.dat'
+            filename = 'original/' + modes[0][i] + '/' + modes[1][j] + '/aircon_Inlet.dat'
             readAirCon(i, j, 0, filename)
-            filename = modes[0][i] + '/' + modes[1][j] + '/aircon_Outlet.dat'
+            filename = 'original/' + modes[0][i] + '/' + modes[1][j] + '/aircon_Outlet.dat'
             readAirCon(i, j, 1, filename)
-            filename = modes[0][i] + '/' + modes[1][j] + '/probes.dat'
+            filename = 'original/' + modes[0][i] + '/' + modes[1][j] + '/probes.dat'
             readProbe(i, j, filename)
             for k in range(len(modes[2])):
-                filename = modes[0][i] + '/' + modes[1][j] + '/' + modes[2][k]
+                filename = 'original/' + modes[0][i] + '/' + modes[1][j] + '/' + modes[2][k]
                 for l in range(len(racks[k])):
                     filename1 = filename + '/' + str(racks[k][l]) + '_Inlet_0.dat'
                     readRack(i, j, 6+(k*len(racks[0])+l)*2, filename1)
