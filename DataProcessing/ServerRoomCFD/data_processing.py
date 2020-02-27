@@ -82,10 +82,12 @@ if __name__ == '__main__':
                     readRack(i, j, 6+(k*len(racks[0])+l)*2 + 1, filename2)
                 print()
             print()
+
     print('dimensions', dimensions)
-    print('nonzeros', nonzeros, end='\n')
-    for entry in entries:
-        # wf.write(entry)
-        print(entry)
-        input()
+    print('nonzeros:', nonzeros)
+    print()
+
+    for idx in entries:
+        wf.write(entries[idx])
+    print('Created ServerRoomCFD.tensor', '...done!\n')
     wf.close()
