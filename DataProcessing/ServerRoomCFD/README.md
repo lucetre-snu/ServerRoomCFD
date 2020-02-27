@@ -31,13 +31,13 @@
 Index of \<Probe> | Probe Location
 --- | ---
 1~2 | Inlet/Outlet of air conditioner
-3~6 | Virtual probe located in `(1.8, 2.12, 1.42)`, `(4.8, 1.65, 1.5)`, `(2.5, 2.09, 0.95)`, `(2.8, 0.65, 0.75)` (Order is the same as website.)
+3~6 | Virtual probe located in `(1.8, 2.12, 1.42)`, `(4.8, 1.65, 1.5)`, `(2.5, 2.09, 0.95)`, `(2.8, 0.65, 0.75)` (in the same order as the website)
 7~22 | Inlet/Outlet surfaces (odd/even indices) of each server in rack 1
 23~34 | Inlet/Outlet surfaces (odd/even indices) of each server in rack 2
 
 ### Format
 - **ServerRoomCFD.tensor**: \<AirCon> \<Power> \<Probe> \<Time> (Temperature)
-  - Temperature in absolute degrees.
+  - Temperatures are in absolute degrees.
 
 ### Dimension
 - **ServerRoomCFD.tensor**: 3 * 3 * 34 * 4,157
