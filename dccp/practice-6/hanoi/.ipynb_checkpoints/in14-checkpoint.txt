@@ -1,5 +1,0 @@
-5 9
-move 1 2
-move 
-don don
-done 10000
