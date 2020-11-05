@@ -200,4 +200,4 @@ class SnakeGame:
         pygame.quit()
     
 if __name__ == "__main__":
-    SnakeGame(width=40, height=30).start(food_count=10)
+    SnakeGame(width=80, height=40).start(food_count=20)
